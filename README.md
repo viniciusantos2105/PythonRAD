@@ -1,9 +1,7 @@
 # PythonRAD - CRUD PESSOA
-======================================
 # Equipe
 Vinicius Jesus Santos - 202108165018
 Raphael Braga Ribeiro - 202202830364
-======================================
 # Passo a Passo
 1- Abra o PyCharm ou a sua IDE
 2- Build o projeto
